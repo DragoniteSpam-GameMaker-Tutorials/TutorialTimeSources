@@ -1,1 +1,0 @@
-self.can_shoot = true;
